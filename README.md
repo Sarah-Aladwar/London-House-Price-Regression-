@@ -4,8 +4,8 @@
 This project focuses on predicting **London house prices** using regression models. Housing prices in London are both a key economic indicator and a subject of public interest. By building accurate predictive models, this project aims to provide valuable insights for buyers, sellers, and policymakers.  
 
 Two models were implemented:
-- **Linear Regression** (baseline)
-- **XGBoost** (advanced ensemble model)  
+- **Linear Regression**
+- **XGBoost**   
 
 Results showed that **XGBoost significantly outperformed Linear Regression**, achieving high accuracy and explaining over 90% of the variance in property prices.
 
